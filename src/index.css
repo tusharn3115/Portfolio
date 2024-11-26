@@ -9,6 +9,7 @@
   font-family: "SF Pro Display", sans-serif;
   scroll-behavior: smooth;
   color-scheme: dark;
+  scrollbar-width: thin;
 }
 
 .hash-span {
